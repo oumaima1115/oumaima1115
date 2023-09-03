@@ -1,4 +1,4 @@
-<img src="https://github.com/oumaima1115/oumayma/blob/main/GitHub_AyachiOumayma.png" >
+![logo](https://github.com/oumaima1115/oumayma/blob/main/GitHub_AyachiOumayma.png)
 <h1 align="center">Hi 👋, I'm Ayachi Oumayma</h1>
 <h3 align="center">A passionate Fullstack developer from Tunisia</h3>
 
