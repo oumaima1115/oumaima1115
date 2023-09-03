@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Ayachi Oumayma</h1>
 <h3 align="center">A passionate Fullstack developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **Smart recruitment**
+- 🔭 I’m currently working on **Smartovate's microservices**
 
 - 🌱 I’m currently learning **Django and python**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
-- 🤝 I’m looking for help with **backend development for a web application project**
+- 🤝 I’m looking for help with **AI for a web application project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/oumaima1115?tab=repositories](https://github.com/oumaima1115?tab=repositories)
 
@@ -18,7 +18,7 @@
   
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFA9aycGbs/MzCJr6y1VygqvWmdEXR5eg/edit?utm_content=DAFA9aycGbs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFA9aycGbs/MzCJr6y1VygqvWmdEXR5eg/edit?utm_content=DAFA9aycGbs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences <a href="https://www.canva.com/design/DAFA9aycGbs/MzCJr6y1VygqvWmdEXR5eg/edit?utm_content=DAFA9aycGbs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" >My Resume</a>  
 
 - ⚡ Fun fact **I have a passion for Art and music**
 
