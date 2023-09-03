@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **AI for a web application project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/oumaima1115?tab=repositories](https://github.com/oumaima1115?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/oumaima1115?tab=repositories">here</a>.
 
 - 💬 Ask me about **programming languages or frameworks**
 
