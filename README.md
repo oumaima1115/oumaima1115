@@ -11,12 +11,12 @@
 - 🤝 I’m looking for help with **AI for a web application project**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/oumaima1115?tab=repositories">here</a>.
-
+- 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 💬 Ask me about **programming languages or frameworks**
 
 - 📫 How to reach me **ayachioumayma2000@gmail.com**
   
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 📄 Know about my experiences <a href="https://www.canva.com/design/DAFA9aycGbs/MzCJr6y1VygqvWmdEXR5eg/edit?utm_content=DAFA9aycGbs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" >My Resume</a>  
 
