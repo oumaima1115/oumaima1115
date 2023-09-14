@@ -41,8 +41,6 @@
 ![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=oumaima1115&theme=radical&row=1&column=10)
 
 
-
-
 <div> <img height="300px" src='http://dev-memer.info' title="consider making a star on our repo please https://github.com/bassem97/dev-memer" alt="Please refresh the page if the meme doesn't show up." > <div>
 <p align="center">
     <h4> Visitors :</h4> <img src="https://visitor-count-b8lb.vercel.app/api/arijhajji-1?hexColor=5ed4f3" />
