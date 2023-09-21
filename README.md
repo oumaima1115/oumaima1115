@@ -42,9 +42,7 @@
 
 
 <div> <img height="300px" src='http://dev-memer.info' title="consider making a star on our repo please https://github.com/bassem97/dev-memer" alt="Please refresh the page if the meme doesn't show up." > <div>
-<p align="center">
-    <h4> Visitors :</h4> <img src="https://visitor-count-b8lb.vercel.app/api/arijhajji-1?hexColor=5ed4f3" />
-</p>
+
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oumaima1115&show_icons=true&locale=en&layout=compact" alt="oumaima1115" /></p>
 
