@@ -1,11 +1,11 @@
 ![logo](https://github.com/oumaima1115/oumayma/blob/main/GitHub_AyachiOumayma.png)
   
-<h1 align="center">Hi 👋, I'm Ayachi Oumayma</h1>
+<h1 align="center">Hello 👋, I'm Ayachi Oumayma</h1>
 <h3 align="center">A passionate Fullstack developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **Smartovate's microservices**
+- 🔭 I’m currently looking for **Internship**
 
-- 🌱 I’m currently learning **Django and python**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
@@ -16,7 +16,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 💬 Ask me about **programming languages or frameworks**
 
-- 📫 How to reach me **ayachioumayma2000@gmail.com**
+- 📫 How to reach me **oumaima.ayachi.pro@gmail.com**
   
 
 - 📄 Know about my experiences <a href="https://www.canva.com/design/DAFA9aycGbs/MzCJr6y1VygqvWmdEXR5eg/edit?utm_content=DAFA9aycGbs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" >My Resume</a>  
