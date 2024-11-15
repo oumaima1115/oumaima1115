@@ -1,9 +1,9 @@
 ![logo](https://github.com/oumaima1115/oumayma/blob/main/GitHub_AyachiOumayma.png)
   
 <h1 align="center">Hello 👋, I'm Ayachi Oumayma</h1>
-<h3 align="center">A passionate Fullstack developer from Tunisia</h3>
+<h3 align="center">Software Engineer | Full stack Web developer  👩🏼‍💻 </h3>
 
-- 🔭 I’m currently looking for **Internship**
+- 🔭 I’m currently looking for **Job Offer**
 
 - 🌱 I’m currently learning **Python**
 
