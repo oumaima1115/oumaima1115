@@ -1,4 +1,4 @@
-![logo](https://github.com/oumaima1115/oumayma/blob/main/GitHub_AyachiOumayma.png)
+![logo](https://github.com/oumaima1115/oumayma/blob/main/AyachiOumayma.png)
   
 <h1 align="center">Hello 👋, I'm Ayachi Oumayma</h1>
 <h3 align="center">Software Engineer | Full stack Web developer  👩🏼‍💻 </h3>
