@@ -19,7 +19,7 @@
 - 📫 How to reach me **oumaima.ayachi.pro@gmail.com**
   
 
-- 📄 Know about my experiences <a href="https://github.com/oumaima1115/Resume/blob/main/Ayachi_Oumayma_CV.pdf" >My Resume</a>  
+- 📄 Know about my experiences <a href="https://github.com/oumaima1115/Resume/blob/main/Ayachi Oumayma_RESUME.pdf" >My Resume</a>  
 
 - ⚡ Fun fact **I have a passion for Art and music**
 
